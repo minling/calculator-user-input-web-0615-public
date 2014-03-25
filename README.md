@@ -13,3 +13,7 @@ language: JavaScript, JS
 ##Instructions:
 Fix the calculator's js file so that the subtraction, multiplication, division, and modulo operators work.
 
+##Resources
+*  [Change Event Methods in jQuery](http://api.jquery.com/change/)
+*  [Retrieving values with jQuery](http://api.jquery.com/val/)
+*  [Selecting inputs using jQuery](http://api.jquery.com/eq-selector/)
