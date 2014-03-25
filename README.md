@@ -1,5 +1,5 @@
 ---
-tags: variable, variables, data types, jQuery, WIP
+tags: math, jQuery, WIP
 language: JavaScript, JS
 ---
 
