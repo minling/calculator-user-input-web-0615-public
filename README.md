@@ -1,5 +1,5 @@
 ---
-tags: math, jQuery, WIP
+tags: math, jQuery
 language: JavaScript, JS
 ---
 
