@@ -1,6 +1,7 @@
 ---
 tags: math, jQuery
 language: JavaScript, JS
+  resources: 3
 ---
 
 # Calculator User Input
@@ -17,3 +18,8 @@ Fix the calculator's js file so that the subtraction, multiplication, division, 
 *  [Change Event Methods in jQuery](http://api.jquery.com/change/)
 *  [Retrieving values with jQuery](http://api.jquery.com/val/)
 *  [Selecting inputs using jQuery](http://api.jquery.com/eq-selector/)
+
+## Resources
+* [jQuery Documentation](http://jquery.com/) - [.change()](http://api.jquery.com/change/)
+* [jQuery Documentation](http://jquery.com/) - [.val()](http://api.jquery.com/val/)
+* [jQuery Documentation](http://jquery.com/) - [Equal Selector](http://api.jquery.com/eq-selector/)
