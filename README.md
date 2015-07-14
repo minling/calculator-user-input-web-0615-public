@@ -1,9 +1,3 @@
----
-  tags: math, jQuery
-  language: JavaScript, JS
-  resources: 3
----
-
 # Calculator User Input
 
 ##Objectives:
